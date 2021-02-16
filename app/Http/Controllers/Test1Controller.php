@@ -9,4 +9,8 @@ class Test1Controller extends Controller
     public function index(){
 
     }
+
+    public function update(){
+
+    }
 }
