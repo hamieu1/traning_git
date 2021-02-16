@@ -9,4 +9,8 @@ class Test2Controller extends Controller
     public function index(){
 
     }
+
+    public function download(){
+
+    }
 }
