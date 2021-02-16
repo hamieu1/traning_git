@@ -16,5 +16,6 @@ class Test1Controller extends Controller
 
     public function download(){
         echo ('asdsadsadsadas');
+        echo ('bbbbbbbbbbbbbbbbbbbbbbbb');
     }
 }
