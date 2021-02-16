@@ -13,4 +13,8 @@ class Test2Controller extends Controller
     public function download(){
 
     }
+
+    public function upload(){
+
+    }
 }
